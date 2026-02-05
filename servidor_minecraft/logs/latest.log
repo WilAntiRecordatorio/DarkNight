@@ -1,0 +1,471 @@
+[05Feb2026 00:04:06.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3787, y=71, z=5779} BlockPos{x=-3787, y=72, z=5780}
+[05Feb2026 00:04:06.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3787, y=71, z=5779} BlockPos{x=-3787, y=72, z=5780}
+[05Feb2026 00:04:25.620] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3845, y=-1, z=5921}
+[05Feb2026 00:04:27.049] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3771, y=-32, z=5961}
+[05Feb2026 00:04:29.048] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3757, y=-1, z=5980}
+[05Feb2026 00:04:33.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3748, y=-54, z=6047}
+[05Feb2026 00:05:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino has made the advancement [Rigged from the Start]
+[05Feb2026 00:05:31.583] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3668, y=-14, z=6142}
+[05Feb2026 00:05:43.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3776, y=14, z=6185}
+[05Feb2026 00:06:09.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3794, y=-6, z=6201}
+[05Feb2026 00:06:15.353] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3747, y=-7, z=6223}
+[05Feb2026 00:06:16.113] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3901, y=32, z=6207}
+[05Feb2026 00:06:16.539] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3864, y=-32, z=6219}
+[05Feb2026 00:06:20.056] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3742, y=17, z=6248}
+[05Feb2026 00:06:20.058] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3707, y=7, z=6242}
+[05Feb2026 00:06:20.250] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3912, y=24, z=6253}
+[05Feb2026 00:06:20.252] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3841, y=-2, z=6243}
+[05Feb2026 00:06:30.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3920, y=38, z=6312}
+[05Feb2026 00:06:30.716] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4025, y=-18, z=6233}
+[05Feb2026 00:06:31.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4044, y=25, z=6212}
+[05Feb2026 00:06:31.712] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4028, y=-1, z=6124}
+[05Feb2026 00:06:43.601] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4070, y=4, z=6134}
+[05Feb2026 00:06:43.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4067, y=36, z=6249}
+[05Feb2026 00:06:46.701] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4092, y=-10, z=6125}
+[05Feb2026 00:06:58.534] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3957, y=29, z=6374}
+[05Feb2026 00:06:58.758] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4112, y=-38, z=6278}
+[05Feb2026 00:07:03.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4072, y=-10, z=6453}
+[05Feb2026 00:09:08.753] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4171, y=-51, z=6508}
+[05Feb2026 00:09:18.250] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4204, y=-2, z=6422}
+[05Feb2026 00:09:19.728] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4193, y=-43, z=6518}
+[05Feb2026 00:09:21.193] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4211, y=-21, z=6448}
+[05Feb2026 00:09:22.392] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4189, y=-12, z=6572}
+[05Feb2026 00:09:23.045] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4233, y=23, z=6496}
+[05Feb2026 00:09:24.101] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4243, y=-9, z=6370}
+[05Feb2026 00:09:25.115] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4258, y=7, z=6494}
+[05Feb2026 00:09:28.751] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2026 00:09:57.053] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4303, y=-22, z=6636}
+[05Feb2026 00:09:58.705] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4306, y=-41, z=6649}
+[05Feb2026 00:09:58.900] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4111, y=-47, z=6640}
+[05Feb2026 00:10:06.749] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4286, y=-50, z=6665}
+[05Feb2026 00:10:20.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved too quickly! -1.666326200866024,-1.495200877005928,9.799313853246531
+[05Feb2026 00:11:02.225] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b127cec6-5c5e-3e36-b86f-c434375ac245 timed out
+[05Feb2026 00:11:20.312] [Server thread/WARN] [waterframes/]: Rejected tick correction of 75625ms, overpass watchdog time
+[05Feb2026 00:11:20.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player vitori_pinguino
+[05Feb2026 00:11:20.312] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 75625ms or 1512 ticks
+[05Feb2026 00:11:20.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 73516ms or 1470 ticks behind
+[05Feb2026 00:11:20.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[05Feb2026 00:11:20.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino lost connection: Disconnected
+[05Feb2026 00:11:20.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino left the game
+[05Feb2026 00:11:20.351] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vitori_pinguino
+[05Feb2026 00:11:20.462] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f0e2c82[id=<null>,name=vitori_pinguino,properties={},legacy=false] (/10.224.155.189:61181) lost connection: Disconnected
+[05Feb2026 00:11:20.651] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4316, y=-32, z=6666}
+[05Feb2026 00:11:37.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.224.155.189:54294] logged in with entity id 81024 at (-4198.320558606773, 63.0, 6556.124980082472)
+[05Feb2026 00:11:37.523] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[05Feb2026 00:11:37.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[05Feb2026 00:11:37.558] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[05Feb2026 00:11:37.918] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vitori_pinguino (20)
+[05Feb2026 00:11:37.918] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[05Feb2026 00:11:41.352] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Feb2026 00:11:42.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Feb2026 00:11:42.353] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245) successfully connected to voice chat
+[05Feb2026 00:11:50.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved wrongly!
+[05Feb2026 00:13:20.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved wrongly!
+[05Feb2026 00:15:01.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved wrongly!
+[05Feb2026 00:15:02.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved wrongly!
+[05Feb2026 00:21:02.899] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4317, y=-35, z=6719}
+[05Feb2026 00:21:02.900] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4296, y=-40, z=6706}
+[05Feb2026 00:21:02.900] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4290, y=-40, z=6706}
+[05Feb2026 00:21:02.900] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4292, y=-40, z=6708}
+[05Feb2026 00:21:05.349] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4317, y=-35, z=6733}
+[05Feb2026 00:21:05.351] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4303, y=-35, z=6728}
+[05Feb2026 00:21:05.351] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4295, y=-35, z=6734}
+[05Feb2026 00:21:05.351] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4293, y=-22, z=6723}
+[05Feb2026 00:21:09.849] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4051, y=-19, z=6594}
+[05Feb2026 00:21:37.356] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4143, y=-2, z=6851}
+[05Feb2026 00:21:45.325] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4357, y=1, z=6800}
+[05Feb2026 00:21:53.859] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4222, y=-42, z=6910}
+[05Feb2026 00:21:54.115] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4166, y=-17, z=6895}
+[05Feb2026 00:21:55.236] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4268, y=-49, z=6934}
+[05Feb2026 00:21:56.400] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4281, y=-8, z=6962}
+[05Feb2026 00:22:08.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4226, y=-46, z=7116}
+[05Feb2026 00:22:10.652] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4134, y=-44, z=6927}
+[05Feb2026 00:22:10.913] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4135, y=-9, z=7013}
+[05Feb2026 00:22:11.699] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4343, y=-6, z=7149}
+[05Feb2026 00:22:18.702] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4108, y=-9, z=6995}
+[05Feb2026 00:22:18.807] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-4097, y=-47, z=7144}
+[05Feb2026 00:24:07.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b127cec6-5c5e-3e36-b86f-c434375ac245 timed out
+[05Feb2026 00:24:08.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino lost connection: Disconnected
+[05Feb2026 00:24:20.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino left the game
+[05Feb2026 00:24:20.280] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player vitori_pinguino
+[05Feb2026 00:24:20.281] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vitori_pinguino
+[05Feb2026 00:24:20.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[05Feb2026 00:24:20.317] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 14166ms or 283 ticks
+[05Feb2026 00:24:20.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11622ms or 232 ticks behind
+[05Feb2026 00:24:20.339] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Feb2026 00:26:09.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.224.155.189:60299] logged in with entity id 83517 at (-4174.688636677158, 64.0, 7080.6782365838135)
+[05Feb2026 00:26:09.269] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[05Feb2026 00:26:09.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[05Feb2026 00:26:09.280] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[05Feb2026 00:26:09.866] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vitori_pinguino (20)
+[05Feb2026 00:26:09.867] [Server thread/WARN] [voicechat/]: [voicechat] Player already requested secret - ignoring
+[05Feb2026 00:29:28.559] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-4001, y=39, z=7190}
+[05Feb2026 00:29:41.456] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3916, y=-20, z=7081}
+[05Feb2026 00:29:42.365] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3900, y=-35, z=7074}
+[05Feb2026 00:29:45.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3874, y=-3, z=7068}
+[05Feb2026 00:29:48.150] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3843, y=-7, z=7041}
+[05Feb2026 00:29:48.309] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3897, y=12, z=7254}
+[05Feb2026 00:29:49.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3833, y=24, z=7229}
+[05Feb2026 00:29:49.811] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3831, y=25, z=7245}
+[05Feb2026 00:29:49.812] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3834, y=9, z=7248}
+[05Feb2026 00:29:53.752] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3791, y=28, z=7168}
+[05Feb2026 00:29:58.950] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3763, y=29, z=7000}
+[05Feb2026 00:30:03.501] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3746, y=-6, z=6966}
+[05Feb2026 00:30:03.510] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3689, y=35, z=6979}
+[05Feb2026 00:30:05.511] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3664, y=27, z=6993}
+[05Feb2026 00:30:11.257] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3634, y=-42, z=7151}
+[05Feb2026 00:30:12.760] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3631, y=-29, z=7052}
+[05Feb2026 00:30:13.708] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3614, y=8, z=7040}
+[05Feb2026 00:30:13.823] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3607, y=-41, z=7066}
+[05Feb2026 00:30:17.243] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3562, y=-9, z=7042}
+[05Feb2026 00:30:23.057] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3665, y=-31, z=6898}
+[05Feb2026 00:30:24.149] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3502, y=-39, z=6985}
+[05Feb2026 00:30:25.661] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3616, y=2, z=6889}
+[05Feb2026 00:30:27.902] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3461, y=22, z=6882}
+[05Feb2026 00:30:39.052] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3442, y=16, z=7112}
+[05Feb2026 00:30:43.499] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3479, y=-38, z=7135}
+[05Feb2026 00:30:43.499] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3469, y=-13, z=7133}
+[05Feb2026 00:34:34.800] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3567, y=36, z=6876}
+[05Feb2026 00:34:44.711] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3571, y=-49, z=6833}
+[05Feb2026 00:34:47.428] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3537, y=-38, z=6792}
+[05Feb2026 00:34:50.959] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3591, y=-8, z=6721}
+[05Feb2026 00:34:52.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3579, y=29, z=6709}
+[05Feb2026 00:34:54.000] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3595, y=0, z=6692}
+[05Feb2026 00:34:57.344] [Worker-Main-252/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-222, 418], pos: BlockPos{x=-3544, y=62, z=6689}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wythers:vegetation/placed_random_patch/fern_cane]
+[05Feb2026 00:34:57.345] [Worker-Main-252/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-221, 418], pos: BlockPos{x=-3535, y=63, z=6688}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wythers:vegetation/placed_random_patch/fern_cane]
+[05Feb2026 00:34:57.345] [Worker-Main-252/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-222, 418], pos: BlockPos{x=-3541, y=63, z=6689}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wythers:vegetation/placed_random_patch/fern_cane]
+[05Feb2026 00:34:57.345] [Worker-Main-252/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-222, 418], pos: BlockPos{x=-3543, y=62, z=6688}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wythers:vegetation/placed_random_patch/fern_cane]
+[05Feb2026 00:34:57.345] [Worker-Main-252/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-221, 418], pos: BlockPos{x=-3536, y=63, z=6688}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wythers:vegetation/placed_random_patch/fern_cane]
+[05Feb2026 00:34:57.345] [Worker-Main-252/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-221, 418], pos: BlockPos{x=-3528, y=62, z=6688}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wythers:vegetation/placed_random_patch/fern_cane]
+[05Feb2026 00:34:57.953] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3708, y=30, z=6687}
+[05Feb2026 00:34:59.702] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3732, y=-48, z=6721}
+[05Feb2026 00:35:01.755] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3590, y=-4, z=6653}
+[05Feb2026 00:35:03.300] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3746, y=-40, z=6635}
+[05Feb2026 00:35:16.403] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3659, y=-46, z=6501}
+[05Feb2026 00:35:17.199] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3667, y=-42, z=6492}
+[05Feb2026 00:35:18.200] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3645, y=-40, z=6464}
+[05Feb2026 00:35:19.649] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3487, y=-1, z=6529}
+[05Feb2026 00:35:22.051] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3491, y=-26, z=6443}
+[05Feb2026 00:35:58.957] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3443, y=-25, z=6446}
+[05Feb2026 00:36:20.250] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 21836ms or 436 ticks
+[05Feb2026 00:36:20.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21254ms or 425 ticks behind
+[05Feb2026 00:36:20.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino moved too quickly! -6.866175929041674,-2.89878178977267,-6.950887768316534
+[05Feb2026 00:37:20.250] [Server thread/WARN] [waterframes/]: Rejected tick correction of 61836ms, overpass watchdog time
+[05Feb2026 00:37:20.250] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 61836ms or 1236 ticks
+[05Feb2026 00:37:20.264] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino lost connection: Disconnected
+[05Feb2026 00:37:20.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino left the game
+[05Feb2026 00:37:20.264] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vitori_pinguino
+[05Feb2026 00:37:20.281] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67158925[id=<null>,name=vitori_pinguino,properties={},legacy=false] (/10.224.155.189:51470) lost connection: Disconnected
+[05Feb2026 00:37:20.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45463ms or 909 ticks behind
+[05Feb2026 00:37:21.094] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3438, y=-3, z=6475}
+[05Feb2026 00:37:21.100] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3456, y=23, z=6492}
+[05Feb2026 00:37:24.994] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.224.155.189:51485] logged in with entity id 85474 at (-3519.0263386654815, 91.72022877697145, 6474.281991434084)
+[05Feb2026 00:37:25.015] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[05Feb2026 00:37:25.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[05Feb2026 00:37:25.062] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[05Feb2026 00:37:25.330] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vitori_pinguino (20)
+[05Feb2026 00:37:25.331] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[05Feb2026 00:37:30.526] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Feb2026 00:37:31.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Feb2026 00:37:31.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245) successfully connected to voice chat
+[05Feb2026 00:37:34.073] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3601, y=-40, z=6376}
+[05Feb2026 00:37:42.936] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3097ms or 61 ticks
+[05Feb2026 00:38:22.417] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3403, y=-42, z=6409}
+[05Feb2026 00:39:52.658] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3527, y=-42, z=6332}
+[05Feb2026 00:39:52.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3496, y=-3, z=6332}
+[05Feb2026 00:39:52.660] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3491, y=-50, z=6330}
+[05Feb2026 00:40:30.785] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3496, y=34, z=6309}
+[05Feb2026 00:42:15.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3460, y=-31, z=6260}
+[05Feb2026 00:42:15.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3463, y=1, z=6260}
+[05Feb2026 00:42:16.952] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3648, y=28, z=6226}
+[05Feb2026 00:42:42.602] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3575, y=33, z=6007}
+[05Feb2026 00:42:44.332] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3391, y=-13, z=6098}
+[05Feb2026 00:42:46.851] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3360, y=-5, z=6152}
+[05Feb2026 00:43:01.550] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3494, y=-49, z=5918}
+[05Feb2026 00:43:07.256] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3343, y=-9, z=5874}
+[05Feb2026 00:43:11.308] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3347, y=-47, z=5818}
+[05Feb2026 00:43:14.448] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3267, y=-43, z=5983}
+[05Feb2026 00:43:19.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3525, y=-31, z=5897}
+[05Feb2026 00:43:20.901] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3548, y=-26, z=5867}
+[05Feb2026 00:43:26.351] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3564, y=30, z=5816}
+[05Feb2026 00:44:47.801] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3461, y=13, z=5686}
+[05Feb2026 00:44:51.201] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3620, y=21, z=5735}
+[05Feb2026 00:44:56.611] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3648, y=27, z=5774}
+[05Feb2026 00:52:17.898] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3348, y=-46, z=5663}
+[05Feb2026 00:53:04.249] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3453, y=12, z=5635}
+[05Feb2026 00:53:17.248] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3435, y=11, z=5628}
+[05Feb2026 00:56:21.448] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3546, y=14, z=5554}
+[05Feb2026 00:59:46.249] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3412, y=25, z=5585}
+[05Feb2026 01:00:28.110] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3528, y=2, z=5523}
+[05Feb2026 01:00:35.050] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3499, y=7, z=5486}
+[05Feb2026 01:00:35.692] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3394, y=-42, z=5479}
+[05Feb2026 01:00:39.700] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3488, y=-41, z=5438}
+[05Feb2026 01:00:41.449] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3576, y=-14, z=5415}
+[05Feb2026 01:00:41.636] [Worker-Main-252/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-213, 339], pos: BlockPos{x=-3406, y=58, z=5424}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wythers:vegetation/placed_random_patch/fern_cane]
+[05Feb2026 01:00:51.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3484, y=-52, z=5333}
+[05Feb2026 01:00:52.992] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3470, y=67, z=5302}
+[05Feb2026 01:00:59.038] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3478, y=-43, z=5209}
+[05Feb2026 01:01:00.898] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-3396, y=30, z=5326}
+[05Feb2026 01:01:00.902] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3396, y=-11, z=5222}
+[05Feb2026 01:01:50.990] [Worker-Main-184/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-208, 321], pos: BlockPos{x=-3328, y=58, z=5148}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wythers:vegetation/placed_random_patch/fern_cane]
+[05Feb2026 01:01:50.990] [Worker-Main-184/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-208, 321], pos: BlockPos{x=-3328, y=48, z=5145}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / wythers:vegetation/placed_random_patch/fern_cane]
+[05Feb2026 01:01:53.955] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3362, y=8, z=5149}
+[05Feb2026 01:03:07.754] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-3325, y=-12, z=5163}
+[05Feb2026 01:03:20.253] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 14227ms or 284 ticks
+[05Feb2026 01:03:20.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12457ms or 249 ticks behind
+[05Feb2026 01:04:38.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dummy[/10.224.155.212:65239] logged in with entity id 90924 at (-2476.699999988079, 63.0, 1572.1298829084287)
+[05Feb2026 01:04:38.405] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Dummy
+[05Feb2026 01:04:38.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy joined the game
+[05Feb2026 01:04:38.432] [Server thread/INFO] [Jade/]: Syncing config to Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935)
+[05Feb2026 01:04:40.489] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dummy (20)
+[05Feb2026 01:04:40.489] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dummy
+[05Feb2026 01:04:56.424] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[05Feb2026 01:05:01.639] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[05Feb2026 01:05:01.639] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935) successfully connected to voice chat
+[05Feb2026 01:05:08.459] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dummy lost connection: Timed out
+[05Feb2026 01:05:08.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy left the game
+[05Feb2026 01:05:08.459] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dummy
+[05Feb2026 01:05:49.812] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5f0395dc[id=<null>,name=Dummy,properties={},legacy=false] (/10.224.155.212:54573) lost connection: Disconnected
+[05Feb2026 01:05:58.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dummy[/10.224.155.212:54597] logged in with entity id 91511 at (-2476.699999988079, 63.0, 1572.1298829084287)
+[05Feb2026 01:05:58.974] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Dummy
+[05Feb2026 01:05:58.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy joined the game
+[05Feb2026 01:05:58.990] [Server thread/INFO] [Jade/]: Syncing config to Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935)
+[05Feb2026 01:05:59.367] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dummy (20)
+[05Feb2026 01:05:59.367] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dummy
+[05Feb2026 01:06:05.727] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[05Feb2026 01:06:07.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[05Feb2026 01:06:07.858] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935) successfully connected to voice chat
+[05Feb2026 01:06:21.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> tadaaa
+[05Feb2026 01:06:44.105] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dummy lost connection: Timed out
+[05Feb2026 01:06:44.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy left the game
+[05Feb2026 01:06:44.106] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dummy
+[05Feb2026 01:06:58.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dummy[/10.224.155.212:64919] logged in with entity id 91880 at (-2475.8993092045894, 66.0, 1582.4491274315562)
+[05Feb2026 01:06:58.818] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Dummy
+[05Feb2026 01:06:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy joined the game
+[05Feb2026 01:06:58.828] [Server thread/INFO] [Jade/]: Syncing config to Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935)
+[05Feb2026 01:06:59.332] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dummy (20)
+[05Feb2026 01:06:59.332] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dummy
+[05Feb2026 01:07:05.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[05Feb2026 01:07:09.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[05Feb2026 01:07:09.312] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935) successfully connected to voice chat
+[05Feb2026 01:07:15.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> wasaa
+[05Feb2026 01:07:34.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> tas bien victor?
+[05Feb2026 01:07:41.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vitori_pinguino> se
+[05Feb2026 01:07:52.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dummy moved too quickly! -9.015998542859506,0.001335979112141672,-4.902391263332902
+[05Feb2026 01:08:01.902] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2608, y=46, z=1431}
+[05Feb2026 01:08:12.656] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2550, y=-18, z=1397}
+[05Feb2026 01:08:31.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> mi internet esat de la vrg
+[05Feb2026 01:08:51.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vitori_pinguino> si ya vi
+[05Feb2026 01:09:14.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dummy lost connection: Timed out
+[05Feb2026 01:09:14.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy left the game
+[05Feb2026 01:09:14.055] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dummy
+[05Feb2026 01:14:35.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino lost connection: Disconnected
+[05Feb2026 01:14:35.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino left the game
+[05Feb2026 01:14:35.903] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vitori_pinguino
+[05Feb2026 01:16:37.977] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.224.155.189:51359] logged in with entity id 93708 at (-953.0500000119209, 52.0, 35.69999998807907)
+[05Feb2026 01:16:38.004] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[05Feb2026 01:16:38.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[05Feb2026 01:16:38.016] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[05Feb2026 01:16:38.252] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3178ms or 63 ticks
+[05Feb2026 01:16:40.991] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vitori_pinguino (20)
+[05Feb2026 01:16:40.991] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[05Feb2026 01:16:50.117] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Feb2026 01:16:51.120] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Feb2026 01:16:51.120] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245) successfully connected to voice chat
+[05Feb2026 01:19:42.263] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dummy[/10.224.155.212:61804] logged in with entity id 94046 at (-2434.4514171425076, 72.0, 1496.699999988079)
+[05Feb2026 01:19:42.268] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Dummy
+[05Feb2026 01:19:42.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy joined the game
+[05Feb2026 01:19:42.279] [Server thread/INFO] [Jade/]: Syncing config to Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935)
+[05Feb2026 01:19:42.730] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dummy (20)
+[05Feb2026 01:19:42.730] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dummy
+[05Feb2026 01:19:48.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[05Feb2026 01:19:51.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[05Feb2026 01:19:51.014] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935) successfully connected to voice chat
+[05Feb2026 01:22:49.615] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2734, y=-15, z=1556}
+[05Feb2026 01:28:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy has made the advancement [No Longer Short-Staffed]
+[05Feb2026 01:28:20.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy has made the advancement [Mournful Magic]
+[05Feb2026 01:28:20.165] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 10532ms or 210 ticks
+[05Feb2026 01:28:20.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8618ms or 172 ticks behind
+[05Feb2026 01:29:15.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vitori_pinguino> r
+[05Feb2026 01:33:57.320] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coronelperroso[/10.224.155.96:64548] logged in with entity id 97569 at (-1625.2543226029873, 65.0, -1403.6529544407854)
+[05Feb2026 01:33:57.326] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Coronelperroso
+[05Feb2026 01:33:57.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso joined the game
+[05Feb2026 01:33:57.337] [Server thread/INFO] [Jade/]: Syncing config to Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513)
+[05Feb2026 01:33:58.072] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Coronelperroso (20)
+[05Feb2026 01:33:58.072] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Coronelperroso
+[05Feb2026 01:34:00.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 200128fa-5754-3bbf-816f-561e6e91d513
+[05Feb2026 01:34:01.535] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 200128fa-5754-3bbf-816f-561e6e91d513
+[05Feb2026 01:34:01.536] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513) successfully connected to voice chat
+[05Feb2026 01:34:31.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> dummy
+[05Feb2026 01:34:37.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> habla
+[05Feb2026 01:34:53.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> ve a la base
+[05Feb2026 01:35:01.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> cualxd?
+[05Feb2026 01:35:06.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> tuya
+[05Feb2026 01:35:13.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> estoy aqui
+[05Feb2026 01:35:15.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> xd
+[05Feb2026 01:35:35.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> hola
+[05Feb2026 01:35:45.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> habla por el chat que no escucho
+[05Feb2026 01:35:51.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> xd
+[05Feb2026 01:35:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> por q ???
+[05Feb2026 01:36:02.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> vengo a cobrar la deuda
+[05Feb2026 01:36:02.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> q pasho??
+[05Feb2026 01:36:07.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> familia en casa
+[05Feb2026 01:36:11.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> a
+[05Feb2026 01:36:13.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> y pues la mudanza peor
+[05Feb2026 01:36:18.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> diavlo
+[05Feb2026 01:36:22.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> dormamu
+[05Feb2026 01:36:26.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> vengo a cobrar
+[05Feb2026 01:36:30.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> que cosa
+[05Feb2026 01:36:38.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> vengo a cobrar la deuda
+[05Feb2026 01:36:50.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> que era pa darte?
+[05Feb2026 01:37:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> sangre de dragon de hielo practicamente
+[05Feb2026 01:37:47.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> dame un momebnto
+[05Feb2026 01:37:54.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> voy a ir a buscar uno
+[05Feb2026 01:38:20.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> tengo el de fuego pero xd
+[05Feb2026 01:38:55.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> vamos a buscar dragones
+[05Feb2026 01:39:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> va
+[05Feb2026 01:39:06.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> perame un minuto
+[05Feb2026 01:39:10.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> okay
+[05Feb2026 01:40:20.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> lets go
+[05Feb2026 01:40:34.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> vamo
+[05Feb2026 01:41:15.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 200128fa-5754-3bbf-816f-561e6e91d513 timed out
+[05Feb2026 01:41:20.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Coronelperroso
+[05Feb2026 01:41:20.111] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 47684ms or 953 ticks
+[05Feb2026 01:41:20.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45766ms or 915 ticks behind
+[05Feb2026 01:41:20.112] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Coronelperroso
+[05Feb2026 01:41:20.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b127cec6-5c5e-3e36-b86f-c434375ac245 timed out
+[05Feb2026 01:41:20.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player vitori_pinguino
+[05Feb2026 01:41:20.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[05Feb2026 01:41:20.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 70cf44af-0b76-36a1-a833-60d1d1be1935 timed out
+[05Feb2026 01:41:20.114] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dummy
+[05Feb2026 01:41:20.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dummy
+[05Feb2026 01:41:20.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vitori_pinguino lost connection: Disconnected
+[05Feb2026 01:41:20.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino left the game
+[05Feb2026 01:41:20.125] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client vitori_pinguino
+[05Feb2026 01:41:20.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dummy lost connection: Disconnected
+[05Feb2026 01:41:20.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy left the game
+[05Feb2026 01:41:20.147] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dummy
+[05Feb2026 01:41:20.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Coronelperroso lost connection: Disconnected
+[05Feb2026 01:41:20.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso left the game
+[05Feb2026 01:41:20.161] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Coronelperroso
+[05Feb2026 01:41:20.174] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38fbf638[id=<null>,name=Coronelperroso,properties={},legacy=false] (/10.224.155.96:64711) lost connection: Disconnected
+[05Feb2026 01:41:22.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dummy[/10.224.155.212:61988] logged in with entity id 98991 at (-3371.092192282623, 85.0, -1242.7894475401752)
+[05Feb2026 01:41:22.158] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Dummy
+[05Feb2026 01:41:22.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dummy joined the game
+[05Feb2026 01:41:22.190] [Server thread/INFO] [Jade/]: Syncing config to Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935)
+[05Feb2026 01:41:22.486] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dummy (20)
+[05Feb2026 01:41:22.487] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dummy
+[05Feb2026 01:41:26.802] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[05Feb2026 01:41:27.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 70cf44af-0b76-36a1-a833-60d1d1be1935
+[05Feb2026 01:41:27.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dummy (70cf44af-0b76-36a1-a833-60d1d1be1935) successfully connected to voice chat
+[05Feb2026 01:41:29.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Coronelperroso[/10.224.155.96:64715] logged in with entity id 99096 at (-3370.790133311938, 91.0, -1252.074999988079)
+[05Feb2026 01:41:29.466] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Coronelperroso
+[05Feb2026 01:41:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Coronelperroso joined the game
+[05Feb2026 01:41:29.527] [Server thread/INFO] [Jade/]: Syncing config to Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513)
+[05Feb2026 01:41:29.721] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Coronelperroso (20)
+[05Feb2026 01:41:29.721] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Coronelperroso
+[05Feb2026 01:41:30.875] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 200128fa-5754-3bbf-816f-561e6e91d513
+[05Feb2026 01:41:31.878] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 200128fa-5754-3bbf-816f-561e6e91d513
+[05Feb2026 01:41:31.878] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Coronelperroso (200128fa-5754-3bbf-816f-561e6e91d513) successfully connected to voice chat
+[05Feb2026 01:41:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> lagaso boludo
+[05Feb2026 01:41:50.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> littt
+[05Feb2026 01:42:06.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> vamo a cazar dragones
+[05Feb2026 01:42:12.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> voy al spawn
+[05Feb2026 01:42:14.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> ya vuelvo
+[05Feb2026 01:42:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> okay
+[05Feb2026 01:43:11.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> vamo de cazeria
+[05Feb2026 01:43:54.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> pa donde
+[05Feb2026 01:44:15.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> mira un lugar
+[05Feb2026 01:44:21.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> tu eres el que mas a explorado
+[05Feb2026 01:44:23.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> creo q se donde hay uno de hielo
+[05Feb2026 01:44:28.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> vamo
+[05Feb2026 01:44:35.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> ven al spawn
+[05Feb2026 01:45:52.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> pa donde
+[05Feb2026 01:45:58.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> sigueme
+[05Feb2026 01:47:10.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> por aca deberia haber unio
+[05Feb2026 01:47:16.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> abajo?
+[05Feb2026 01:47:18.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> eso fue antes de hacer el back up
+[05Feb2026 01:47:25.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> no alrededor
+[05Feb2026 01:47:34.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> es madre?
+[05Feb2026 01:47:35.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> haber usa el ojo de dragon
+[05Feb2026 01:47:41.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> nah uno normla
+[05Feb2026 01:47:56.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> sabes que solo funcionan los ojos con dragones madres verdad? xd
+[05Feb2026 01:48:02.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> aaa
+[05Feb2026 01:48:06.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> xdd
+[05Feb2026 01:48:13.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> miro aver si hay uno?
+[05Feb2026 01:48:18.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> haber
+[05Feb2026 01:48:24.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> nada se pierde intentando
+[05Feb2026 01:48:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> nel
+[05Feb2026 01:49:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> chichas
+[05Feb2026 01:49:09.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> vamos directo
+[05Feb2026 01:49:33.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> aca no hay nada
+[05Feb2026 01:49:38.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> yo ya explore por aca
+[05Feb2026 01:49:49.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> yo me acuerdo qeu si habia unio
+[05Feb2026 01:49:52.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> mmm
+[05Feb2026 01:50:08.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> veamos si si
+[05Feb2026 01:51:23.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> vees eso abajo
+[05Feb2026 01:51:35.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> k
+[05Feb2026 01:51:40.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> una figura blanca
+[05Feb2026 01:51:46.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> lo matamos?
+[05Feb2026 01:51:56.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> si lo miras????
+[05Feb2026 01:51:59.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> si
+[05Feb2026 01:52:02.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> vamo
+[05Feb2026 01:52:04.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> ya no
+[05Feb2026 01:52:13.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> xdd
+[05Feb2026 01:52:18.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> se petateo
+[05Feb2026 01:52:25.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> estoy esquizofrenico
+[05Feb2026 01:52:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> estamos xd
+[05Feb2026 01:52:50.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> un tiezo
+[05Feb2026 01:53:15.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> waos
+[05Feb2026 01:53:20.078] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 7147ms or 142 ticks
+[05Feb2026 01:53:20.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4382ms or 87 ticks behind
+[05Feb2026 01:54:06.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> no lo encuentro
+[05Feb2026 01:54:20.068] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 15097ms or 301 ticks
+[05Feb2026 01:54:20.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13722ms or 274 ticks behind
+[05Feb2026 01:54:20.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> pipipi
+[05Feb2026 01:54:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> xd
+[05Feb2026 01:54:41.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> pa donde vamos tonses
+[05Feb2026 01:54:50.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> follow me
+[05Feb2026 01:54:56.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> aight
+[05Feb2026 01:56:00.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> halle una waystone xd
+[05Feb2026 01:56:05.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> xd
+[05Feb2026 01:57:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> donde estas
+[05Feb2026 01:58:27.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> dibidamos y encontremos un dragon
+[05Feb2026 01:58:33.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> mejor creo
+[05Feb2026 01:58:41.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> DRAGON
+[05Feb2026 01:58:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> mammes
+[05Feb2026 01:58:50.005] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-392, y=-15, z=-802}
+[05Feb2026 01:59:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> lo mate xd
+[05Feb2026 01:59:50.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> vamos a por mas
+[05Feb2026 02:00:44.253] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-427, y=-33, z=-850}
+[05Feb2026 02:01:07.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> quie es esto?
+[05Feb2026 02:01:26.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> hay algo
+[05Feb2026 02:01:32.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> mira
+[05Feb2026 02:02:02.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> vamono
+[05Feb2026 02:02:04.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> va
+[05Feb2026 02:02:13.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> hay que cazar
+[05Feb2026 02:03:13.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> subi
+[05Feb2026 02:05:15.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dummy> aca hubo una pelea xd
+[05Feb2026 02:05:30.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> el huesaso
+[05Feb2026 02:07:00.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vitori_pinguino[/10.224.155.189:63163] logged in with entity id 105032 at (-3376.248516979501, 93.0, -1261.5947160445598)
+[05Feb2026 02:07:20.051] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player vitori_pinguino
+[05Feb2026 02:07:20.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vitori_pinguino joined the game
+[05Feb2026 02:07:20.063] [Server thread/INFO] [Jade/]: Syncing config to vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245)
+[05Feb2026 02:07:20.116] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 21582ms or 431 ticks
+[05Feb2026 02:07:20.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19921ms or 398 ticks behind
+[05Feb2026 02:07:20.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dummy moved too quickly! 3.8787909059341814,0.2247629905309907,-9.296474938623533
+[05Feb2026 02:07:20.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> sigamo
+[05Feb2026 02:07:21.127] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of vitori_pinguino (20)
+[05Feb2026 02:07:21.128] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to vitori_pinguino
+[05Feb2026 02:07:29.405] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Feb2026 02:07:30.408] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b127cec6-5c5e-3e36-b86f-c434375ac245
+[05Feb2026 02:07:30.411] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player vitori_pinguino (b127cec6-5c5e-3e36-b86f-c434375ac245) successfully connected to voice chat
+[05Feb2026 02:09:44.855] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=153, y=-47, z=-1276}
+[05Feb2026 02:11:41.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of vitori_pinguino) moved too quickly! -0.47837961496080084,3.435948792605444,-9.580239762139378
+[05Feb2026 02:11:52.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of vitori_pinguino) moved too quickly! -1.059428007201351,0.0,-11.109193263776547
+[05Feb2026 02:11:52.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of vitori_pinguino) moved too quickly! -1.2062543525219187,0.0,-12.963025736983013
+[05Feb2026 02:13:25.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> nido
+[05Feb2026 02:14:06.233] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3001ms or 60 ticks
+[05Feb2026 02:16:35.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> sabes que no escucho verdad xd
+[05Feb2026 02:16:40.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vitori_pinguino> wey usa los ojos
+[05Feb2026 02:18:03.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Coronelperroso> nido
